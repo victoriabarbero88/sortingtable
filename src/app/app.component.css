@@ -1,0 +1,25 @@
+
+
+h1, h2, h3{
+  text-align: center;
+  margin: 4%;
+  font-weight: bold;
+  color: white;
+}
+.drop-shadow {
+  filter: drop-shadow(2px 4px 8px #585858);
+}
+h1 {
+   font-size: 3rem;
+ }
+
+ /*TABLE FORMAT*/
+table .mat-header-cell {
+  font-size: 1.25em;
+  color: rgb(243, 241, 241);
+  background-color: rgba(53, 50, 50, 0.39);
+}
+table {
+  width: 100%;
+  background-color: rgba(255,255,255, 0.5);
+}
